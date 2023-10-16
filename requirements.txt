@@ -1,0 +1,16 @@
+asgiref==3.7.2
+camelcase==0.2
+certifi==2023.7.22
+distlib==0.3.7
+Django==4.2.5
+django-cors-headers==4.2.0
+djangorestframework==3.14.0
+filelock==3.12.3
+numpy==1.25.2
+pipenv==2023.9.8
+platformdirs==3.10.0
+pygame==2.5.1
+pytz==2023.3.post1
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.24.4
